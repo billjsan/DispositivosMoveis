@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pratica01</string>
+    <string name="edit_message">"Digite uma mensagem"</string>
+    <string name="button_send">"Enviar"</string>
+    <string name="action_search">search</string>
+    <string name="action_settings">settings</string>
+    <string name="title_activity_display_message">Atividade mostrar mensagem</string>
+    <string name="title_main_activity">Atividade principal</string>
+</resources>
