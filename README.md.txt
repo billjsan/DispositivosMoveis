@@ -1,0 +1,1 @@
+Repositorio para práticas da disciplina de dispositivos móveis do curso de ADS do IFPE 2023
