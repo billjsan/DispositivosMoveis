@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_search
+id action_settings
+id button_send
+id edit_message
+id message_view
+layout activity_display_message
+layout activity_main
+menu menu_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string action_search
+string action_settings
+string app_name
+string button_send
+string edit_message
+string title_activity_display_message
+string title_main_activity
+style Theme.Pratica01
+xml backup_rules
+xml data_extraction_rules
